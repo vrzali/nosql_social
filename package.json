@@ -1,0 +1,25 @@
+{
+  "name": "nosql_social",
+  "version": "1.0.0",
+  "description": "an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrzali/nosql_social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrzali/nosql_social/issues"
+  },
+  "homepage": "https://github.com/vrzali/nosql_social#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.4"
+  }
+}
